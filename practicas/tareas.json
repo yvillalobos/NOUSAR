@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Curso web full stack",
+        "estado": "En clases"
+    },
+    {
+         "titulo": "Curso web full stack",
+         "estado": "Consultando"
+    },
+    {
+        "titulo": "Curso web full stack",
+        "estado": "Practicando"
+    },
+    {
+        "titulo": "Curso web full stack",
+        "estado": "Fin de la clase"
+    }
+]
